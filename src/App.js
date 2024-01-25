@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Fruit</p>
+        <p>Hello leaf village</p>
       </header>
     </div>
   );
